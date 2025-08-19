@@ -17,8 +17,4 @@
 - **JavaScript (ES6+):** Para toda a interatividade, manipulação do DOM e lógica da aplicação.
 - **LocalStorage API:** Para salvar os dados das tarefas no navegador.
 
-## ⚙️ Como Executar o Projeto
 
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/DeCarvalhoRoberto/projeto-lista-tarefas.git](https://github.com/DeCarvalhoRoberto/projeto-lista-tarefas.git)
