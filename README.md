@@ -21,4 +21,4 @@
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/projeto-lista-tarefas.git](https://github.com/seu-usuario/projeto-lista-tarefas.git)
+   git clone [https://github.com/DeCarvalhoRoberto/projeto-lista-tarefas.git](https://github.com/DeCarvalhoRoberto/projeto-lista-tarefas.git)
